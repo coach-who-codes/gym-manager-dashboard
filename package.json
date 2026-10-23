@@ -1,0 +1,12 @@
+{
+  "name": "gym-manager-dashboard",
+  "version": "1.0.0",
+  "description": "GymDesk: a gym membership dashboard for tracking members, renewals and revenue.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
